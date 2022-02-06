@@ -23,7 +23,7 @@ Patient information is already in digital form, thanks to the rapid rise of wire
 Drug development is a very costly procedure. Machine Learning can improve the efficiency of many of the analytical techniques used in drug development. This process goes through four stages starting from selecting intervention targets followed by discovering drug candidates, Speeding up clinical trials and finding Biomarkers for diagnosing the disease. 
 
 
-**Personalize treatment** Not every patient has the same reaction to a certain therapy. As a result, tailored treatment has a huge potential to extend patients' lives. However, determining which characteristics should influence treatment selection is difficult. Machine Learning can assist determine which variables indicate that a patient will have a certain response to a given treatment by automating this complex statistical work. As a result, the algorithm can forecast a patient's likely response to a given treatment.
+**Personalize treatment** Not every patient has the same reaction to a certain therapy. As a result, tailored treatment has a huge potential to extend patients' lives. However, its not easy finding which factors influence treatment selection. Machine Learning can assist determine which variables indicate that a patient will have a certain response to a given treatment by automating this complex statistical work. The algorithm can predict a patient's likely response to a treatment before they try it.
 
 
  ![image](https://user-images.githubusercontent.com/97630155/152214908-a8b8428b-0795-422c-a015-51285a0d61b8.png)
